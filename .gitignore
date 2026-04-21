@@ -1,0 +1,52 @@
+#################################
+# AEM / Sling runtime (NEVER commit)
+#################################
+crx-quickstart/
+quickstart/
+segmentstore/
+datastore/
+index/
+repository/
+logs/
+*.log
+tmp/
+temp/
+felix-cache/
+
+#################################
+# Maven build output
+#################################
+target/
+*.class
+*.jar
+*.zip
+
+#################################
+# Node / Frontend (ui.frontend)
+#################################
+ui.frontend/node_modules/
+ui.frontend/dist/
+ui.frontend/target/
+
+#################################
+# IDEs
+#################################
+.idea/
+*.iml
+.vscode/
+.eclipse/
+.settings/
+.classpath
+.project
+
+#################################
+# OS files
+#################################
+.DS_Store
+Thumbs.db
+
+#################################
+# AEM tooling artifacts
+#################################
+.vlt/
+.vlt-sync-config.properties

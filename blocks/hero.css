@@ -1,0 +1,9 @@
+.hero-container {
+    padding: 60px;
+    text-align: center;
+    background: #fafafa;
+}
+
+.hero-container h1 {
+    font-size: 2.5rem;
+}
