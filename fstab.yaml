@@ -1,2 +1,2 @@
 mountpoints:
-  /: /
+  /: https://raw.githubusercontent.com/chinthakasuse/my-eds-site/main
